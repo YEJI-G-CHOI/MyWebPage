@@ -14,22 +14,38 @@
 <body>
   <div class="main-container">
     <div class="main-wrapper">
+      <!-- clock.js -->
       <div class="today-info">
         <div id="today-date"></div>
         <div id="now-time"></div>
       </div>
 
+      <!-- search.js -->
       <div class="search">
         <input id="search-input" placeholder="검색어를 입력하세요" />
       </div>
 
+      <!-- quote.js -->
       <div id="quote"></div>
+
+      <!-- bookmarkToggle.js -->
+      <div id="bookmark-bar"></div>
+
+      <div id="bookmark-close-btn" class="bookmark-btn close">
+        <div id="bookmark-close-btn-text" class="btn-text">북마크 닫기</div>
+      </div>
+
+      <div id="bookmark-open-btn" class="bookmark-btn open">
+        <div id="bookmark-open-btn-text">북마크 열기</div>
+      </div>
+
     </div>
   </div>
 
   <script src="./js/clock.js"></script>
   <script src="./js/search.js"></script>
   <script src="./js/quote.js"></script>
+  <script src="./js/bookmarkToggle.js"></script>
 </body>
 
 </html>
