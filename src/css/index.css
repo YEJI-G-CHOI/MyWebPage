@@ -83,11 +83,7 @@ body {
   background-color: rgba(0, 0, 0, 0.5);
 }
 
-.bookmark-btn div {
-  cursor: pointer;
-}
-
-.bookmark-btn {
+#bookmark-button {
   width: 240px;
   height: 20px;
   display: flex;
@@ -98,12 +94,13 @@ body {
   padding: 15px 30px;
   color: white;
   font-size: var(--xsmall);
+  cursor: pointer;
 }
 
-.bookmark-btn.close {
-  background-color: rgba(0, 0, 0, 0.5);
-}
-
-.bookmark-btn.open {
+.btn-close {
   background-color: rgba(0, 0, 0, 0);
+}
+
+.btn-open {
+  background-color: rgba(0, 0, 0, 0.5);
 }
