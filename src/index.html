@@ -30,15 +30,48 @@
       <div id="quote"></div>
 
       <!-- bookmarkToggle.js -->
-      <div id="bookmark-bar"></div>
       <div id="bookmark-button" class="btn-close">북마크 열기</div>
+      <div id="bookmark-bar">
+        <!-- bookmark -->
+        <div id="form-open-btn">+ 북마크 추가</div>
+
+        <div id="bookmark-add-form">
+          <div class="bookmark-input-wrapper">
+            <div class="label">이름</div>
+            <input id="bookmark-input-name" class="input" />
+          </div>
+
+          <div class="bookmark-input-wrapper">
+            <div class="label">주소</div>
+            <input id="bookmark-input-url" class="input" />
+          </div>
+
+          <div id="bookmark-btn-wrapper">
+            <div id="cancel-btn" class="button">취소</div>
+            <div id="add-btn" class="button">추가</div>
+          </div>
+        </div>
+
+        <div id="bookmark-list">
+          <!-- <div class="bookmark-item">
+            <div class="bookmark-info">
+              <img src="./images/favi.png" />
+              <a target="_blank">bookmark</a>
+            </div>
+
+            <div class="delete-btn">삭제</div>
+          </div> -->
+        </div>
+      </div>
     </div>
+  </div>
   </div>
 
   <script src="./js/clock.js"></script>
   <script src="./js/search.js"></script>
   <script src="./js/quote.js"></script>
   <script src="./js/bookmarkToggle.js"></script>
+  <script src="./js//bookmark.js"></script>
 </body>
 
 </html>

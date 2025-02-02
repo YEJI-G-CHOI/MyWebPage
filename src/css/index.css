@@ -55,6 +55,10 @@ body {
   background-color: rgba(0, 0, 0, 0.5);
 }
 
+.main-wrapper #search-input:focus {
+  outline: none;
+}
+
 .main-wrapper #search-input::placeholder {
   color: rgb(169, 169, 169);
   font-size: var(--medium);
@@ -72,17 +76,6 @@ body {
 }
 
 /* bookmarkBarToggle */
-#bookmark-bar {
-  width: 240px;
-  min-height: calc(100vh - 70px);
-  position: absolute;
-  top: 50px;
-  right: 0px;
-  padding: 10px 30px;
-  color: white;
-  background-color: rgba(0, 0, 0, 0.5);
-}
-
 #bookmark-button {
   width: 240px;
   height: 20px;
@@ -103,4 +96,118 @@ body {
 
 .btn-open {
   background-color: rgba(0, 0, 0, 0.5);
+}
+
+#bookmark-bar {
+  width: 240px;
+  min-height: calc(100vh - 70px);
+  position: absolute;
+  top: 50px;
+  right: 0px;
+  padding: 10px 30px;
+  color: white;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+/* bookmark */
+/* 북마크 추가 폼 오픈 버튼 */
+#form-open-btn {
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+  margin-bottom: 35px;
+  padding: 10px;
+  border: rgba(241, 241, 241, 0.2) 0.5px solid;
+  border-radius: 5px;
+  font-size: var(--small);
+  background-color: rgba(255, 255, 255, 0.1);
+  cursor: pointer;
+}
+
+#form-open-btn:hover {
+  background-color: rgba(255, 255, 255, 0.2);
+}
+
+/* 북마크 추가 폼 */
+#bookmark-add-form {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  padding: 12px;
+  border: rgba(241, 241, 241, 0.2) 0.5px solid;
+  border-radius: 5px;
+  font-size: var(--small);
+  background-color: rgba(255, 255, 255, 0.1);
+}
+
+.bookmark-input-wrapper .label {
+  margin-bottom: 3px;
+  font-size: var(--xsmall);
+  text-align: left;
+}
+
+.bookmark-input-wrapper input {
+  width: 200px;
+  height: 20px;
+  margin-bottom: 12px;
+  padding: 5px;
+  border: 1px solid #ffffff;
+  border-radius: 5px;
+}
+
+.bookmark-input-wrapper input:focus {
+  outline: none;
+}
+
+#bookmark-add-form #bookmark-btn-wrapper {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 5px;
+  font-size: var(--xsmall);
+}
+
+#bookmark-btn-wrapper .button {
+  padding: 5px 35px;
+  border: rgba(241, 241, 241, 0.2) 0.5px solid;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+#bookmark-btn-wrapper .button:hover {
+  background-color: rgba(255, 255, 255, 0.2);
+}
+
+/* 북마크 아이템 */
+#bookmark-list .bookmark-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+  padding: 15px;
+  border: rgba(241, 241, 241, 0.2) 0.5px solid;
+  border-radius: 5px;
+  font-size: var(--small);
+  background-color: rgba(255, 255, 255, 0.1);
+}
+
+.bookmark-item .bookmark-info {
+  display: flex;
+  align-items: center;
+}
+
+.bookmark-info img {
+  width: 20px;
+  margin-right: 8px;
+}
+
+.bookmark-info a {
+  display: flex;
+  color: white;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.bookmark-item .delete-btn {
+  color: lightgray;
+  font-size: var(--xxsmall);
+  cursor: pointer;
 }
