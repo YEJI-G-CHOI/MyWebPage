@@ -24,6 +24,12 @@ Chrome Web トップページです。
 <br/>
 
 
+## Screen Layout
+
+
+<br />
+
+
 ## Stacks
 
 ### Environment
@@ -40,4 +46,8 @@ Chrome Web トップページです。
 
 
 <br/>
+
+
+## Video
+
 
