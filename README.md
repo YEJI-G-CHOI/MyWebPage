@@ -69,13 +69,16 @@ Chrome Web トップページです。
 1. 이 프로젝트를 다운로드하고 폴더 압축 해제
 2. chrome://extensions/ 에 접속
 3. 오른쪽 상단에 있는 '개발자 모드' ON
-   <img alt="chrome1" src="https://github.com/user-attachments/assets/b341f589-beb0-415a-bbf4-83525f91be8c" />
 4. 왼쪽 상단에 '압축해제된 확장 프로그램을 로드합니다.' click
+<img alt="chrome1" src="https://github.com/user-attachments/assets/b341f589-beb0-415a-bbf4-83525f91be8c" />
 5. 다운받은 폴더 선택
 6. 새로 추가된 'My Web Page 1.0' 확장 프로그램 활성화
-  <img width="300" alt="chrome2" src="https://github.com/user-attachments/assets/7aee907b-1788-496d-94e6-ee431c0ed0f0" />
+<img width="300" alt="chrome2" src="https://github.com/user-attachments/assets/7aee907b-1788-496d-94e6-ee431c0ed0f0" />
+
 
 <br />
+<br />
+
 
 このトップページをChromeに適用する方法
 1. このプロジェクトをダウンロードし、圧縮されたフォルダを解凍する
