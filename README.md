@@ -28,12 +28,12 @@ Chrome Web トップページです。
 
 ## Screen Layout
 
-<img width="1915" alt="Image" src="https://github.com/user-attachments/assets/f99a64fa-a0f2-44f0-a25c-92a8c1cfb737" />
+<img width="1915" alt="screen_layout1" src="https://github.com/user-attachments/assets/f99a64fa-a0f2-44f0-a25c-92a8c1cfb737" />
 
 <br />
 <br />
 
-<img width="1915" alt="Image" src="https://github.com/user-attachments/assets/f52ffac5-8123-4072-b6ff-303f67835879" />
+<img width="1915" alt="screen_layout2" src="https://github.com/user-attachments/assets/f52ffac5-8123-4072-b6ff-303f67835879" />
 
 
 <br />
@@ -72,6 +72,11 @@ Chrome Web トップページです。
 4. 왼쪽 상단에 '압축해제된 확장 프로그램을 로드합니다.' click
 5. 다운받은 폴더 선택
 6. 새로 추가된 'My Web Page 1.0' 확장 프로그램 활성화
+
+<div>
+  <img width="250" alt="chrome1" src="https://github.com/user-attachments/assets/b341f589-beb0-415a-bbf4-83525f91be8c" />
+  <img width="250" alt="chrome2" src="https://github.com/user-attachments/assets/7aee907b-1788-496d-94e6-ee431c0ed0f0" />
+</div>
 
 <br />
 
