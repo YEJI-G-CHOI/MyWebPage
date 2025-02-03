@@ -28,6 +28,10 @@ Chrome Web トップページです。
 
 ## Screen Layout
 
+<img width="1915" alt="Image" src="https://github.com/user-attachments/assets/f99a64fa-a0f2-44f0-a25c-92a8c1cfb737" />
+
+<img width="1915" alt="Image" src="https://github.com/user-attachments/assets/f52ffac5-8123-4072-b6ff-303f67835879" />
+
 
 <br />
 
