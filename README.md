@@ -86,8 +86,8 @@ Chrome Web トップページです。
 1. このプロジェクトをダウンロードし、圧縮されたフォルダを解凍する
 2. chrome://extensions/ に接続する
 3. 右上にある 「 デベロッパーモード 」 ON
-4. 左上にある 「 パッケージ化されていない拡張機能を読み込む 」 click
-   < img alt="chrome3" src="https://github.com/user-attachments/assets/6a1c2871-5427-40b2-a5a0-aab6405ec606" />
+4. 左上にある 「 パッケージ化されていな い拡張機能を読み込む 」 click
+  < img alt="chrome3" src="https://github.com/user-attachments/assets/6a1c2871-5427-40b2-a5a0-aab6405ec606" />
 6. ダウンロードしたフォルダを選択する
 7. 追加された 「 My Web Page 1.0 」 拡張機能を活性化する
 
