@@ -87,9 +87,9 @@ Chrome Web トップページです。
 2. chrome://extensions/ に接続する
 3. 右上にある 「 デベロッパーモード 」 ON
 4. 左上にある 「 パッケージ化されていな い拡張機能を読み込む 」 click
-  < img alt="chrome3" src="https://github.com/user-attachments/assets/6a1c2871-5427-40b2-a5a0-aab6405ec606" />
-6. ダウンロードしたフォルダを選択する
-7. 追加された 「 My Web Page 1.0 」 拡張機能を活性化する
+ < img alt="chrome3" src="https://github.com/user-attachments/assets/c6f0863f-84d8-42b0-a7b8-0e614e020967" />
+5. ダウンロードしたフォルダを選択する
+6. 追加された 「 My Web Page 1.0 」 拡張機能を活性化する
 
 <img width="300" alt="chrome4" src="https://github.com/user-attachments/assets/f6ca36b8-1ce0-464d-8b8d-514fb7e9ba2e" />
 
