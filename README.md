@@ -79,6 +79,7 @@ Chrome Web トップページです。
 
 <br />
 <br />
+<br />
 
 
 このトップページをChromeに適用する方法
@@ -86,6 +87,9 @@ Chrome Web トップページです。
 2. chrome://extensions/ に接続する
 3. 右上にある 「 デベロッパーモード 」 ON
 4. 左上にある 「 パッケージ化されていない拡張機能を読み込む 」 click
-5. ダウンロードしたフォルダを選択する
-6. 追加された 「 My Web Page 1.0 」 拡張機能を活性化する
+   < img alt="chrome3" src="https://github.com/user-attachments/assets/6a1c2871-5427-40b2-a5a0-aab6405ec606" />
+6. ダウンロードしたフォルダを選択する
+7. 追加された 「 My Web Page 1.0 」 拡張機能を活性化する
+
+<img width="300" alt="chrome4" src="https://github.com/user-attachments/assets/f6ca36b8-1ce0-464d-8b8d-514fb7e9ba2e" />
 
