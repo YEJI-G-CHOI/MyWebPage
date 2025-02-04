@@ -60,6 +60,8 @@ Chrome Web トップページです。
 
 ## Video
 
+https://github.com/user-attachments/assets/3912946f-4f4c-4614-a482-f65194690506
+
 
 <br/>
 
