@@ -73,8 +73,9 @@ Chrome Web トップページです。
     <img alt="chrome1" src="https://github.com/user-attachments/assets/b341f589-beb0-415a-bbf4-83525f91be8c" />
 5. 다운받은 폴더 선택
 6. 새로 추가된 'My Web Page 1.0' 확장 프로그램 활성화
-
-<img width="300" alt="chrome2" src="https://github.com/user-attachments/assets/7aee907b-1788-496d-94e6-ee431c0ed0f0" />
+   <div>
+     <img width="300" alt="chrome2" src="https://github.com/user-attachments/assets/7aee907b-1788-496d-94e6-ee431c0ed0f0" />
+   </div>
 
 
 <br />
@@ -90,8 +91,10 @@ Chrome Web トップページです。
   <img alt="chrome3" src="https://github.com/user-attachments/assets/c6f0863f-84d8-42b0-a7b8-0e614e020967" />
 5. ダウンロードしたフォルダを選択する
 6. 追加された 「 My Web Page 1.0 」 拡張機能を活性化する
+   <div>
+     <img width="300" alt="chrome4" src="https://github.com/user-attachments/assets/f6ca36b8-1ce0-464d-8b8d-514fb7e9ba2e" />
+   </div>
 
-<img width="300" alt="chrome4" src="https://github.com/user-attachments/assets/f6ca36b8-1ce0-464d-8b8d-514fb7e9ba2e" />
 
 <br />
 <br />
